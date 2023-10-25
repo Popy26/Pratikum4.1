@@ -1,0 +1,73 @@
+doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Layout</title> 
+  <style>
+        header {
+            background-color:yellow;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px  0 20px 0;
+        } 
+        nav {
+            background-color:green;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px 0 20px 0;
+        }
+        article {
+            background-color:orange;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px 0 20px 0;
+            float: left;
+            width: 70%;
+        }
+        aside {
+            background-color:blue;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px 0 20px 0;
+            float: left;
+            width: 50%;
+            height: 165px;
+        } 
+        section {
+            background-color:peachpuff;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px 20px 20px 30px;
+
+        }
+        footer {
+            background-color:yellow;
+            pedding : 20px 0 20px 0;
+            border:  2px solid black;
+            margin : 20px 20px 20px 30px;
+            clear: both;
+
+        }
+
+
+
+
+        </style> 
+ </head> 
+ <body> <!--tampilan header--> 
+  <header> 
+   <center> 
+    <img src="/storage/emulated/0/Pictures/Instagram/IMG_20231024_210659_097.webp" width="250"> 
+   </center> 
+  </header> <!--tampilan header--> 
+  <nav> 
+   <table style="whidth: 50%;" border="0"> 
+    <tbody> 
+     <tr> 
+      <td> <a href="wa.me/6285264426618">Home |</a> </td> 
+      <td> <a href="link.contak">Contact |</a> </td> 
+      <td> <a href="popyannisa365@gmail.com">Email</a> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
